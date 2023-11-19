@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Music Case</string>
+    <string name="title_activity_order">OrderActivity</string>
+</resources>
